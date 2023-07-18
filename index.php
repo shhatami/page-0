@@ -197,7 +197,7 @@
         </style>
 
 </head>
-<body> 
+<body>
     <div id="header">
     <!-- Navbar or header -->
         <div class="w3-top">

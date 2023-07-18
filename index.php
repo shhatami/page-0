@@ -10,7 +10,7 @@
 
     
     <meta name="keywords" content="ogofy,اوگوفای,offer,تخفیف"/>
-    <meta name="discription" content="خرید تور,خرید تورآنلاین,تخفیف توخفیف,ر,اینترنتی,travel,سفر"/>
+    <meta name="discription" content="خرید تور,خرید تورآنلاین,تخفیف توخفیف,ر,اینترنتی,travel,travel"/>
     
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">

@@ -23,7 +23,6 @@
         display: none;
         }
 
-    
     ul 
        {
        list-style-type: none;
